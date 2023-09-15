@@ -20,3 +20,5 @@
 ## 🚀 Instalação
 
 Não é necessário nenhum processo de instalação especial. Basta clonar ou baixar este repositório e abrir o arquivo `index.html` em um navegador da web.
+
+**Jogue o Jogo da Cobrinha [Aqui](https://snakegamebyfisher.netlify.app/)!** 🐍🎮
